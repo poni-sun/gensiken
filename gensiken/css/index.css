@@ -1,0 +1,46 @@
+body{
+  background-image: repeat; 
+  background-image: url(../photo/mini_haikei.png);
+}
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.header {
+  color: black;
+  font-size: 20px;
+  margin: auto;
+}
+.header_top{
+  text-align: center;
+  font-size: 1px;
+  color: aliceblue;
+}
+.main {
+  background: pink;
+  width: 100%;
+  text-align: left;
+  margin: 2vw;
+  padding: 1rem;
+}
+.footer {
+   background:burlywood;
+   margin: 2vw;
+}
+/*ここから更新*/
+.top{
+  padding-bottom: 10%;
+}
+.sitetitle{
+  position: relative;
+  padding: 10% 30%;
+}
+.character{
+  background-color: aqua;
+  width: auto;
+  padding: 1rem;
+  margin:1rem;
+}
+.job{
+  
+}
